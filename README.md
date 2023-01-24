@@ -12,10 +12,8 @@ To run the app locally, the necessary dependencies can be installed by running n
 * Webpack
 * IndexedDB
 * Express
-### Usage
+## Usage
 JATE can be used in the browser or it can be downloaded by clicking the install button.
 ![]()
-
-
 ### License
 MIT license. Please refer to the license in the repo
