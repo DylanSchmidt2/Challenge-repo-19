@@ -7,13 +7,24 @@ JATE is a notepad app that allows users to save notes or code snippets with or W
 Link to the deployed [app]()
 
 ## Installation
-To run the app locally, the necessary dependencies can be installed by running npm i in the command line.
-### Dependencies
+To run the app locally, the necessary dependencies can be installed by running..
+```
+npm i
+```
+### (Dependencies)
 * Webpack
 * IndexedDB
 * Express
 ## Usage
-JATE can be used in the browser or it can be downloaded by clicking the install button.
-![]()
+Jate can be started by running..
+```
+npm run start
+```
+This will open the app on the users local machine at..
+
+'localhost:3000'
+![jate](https://user-images.githubusercontent.com/111022382/213883367-57617d11-1bf4-45f3-9be2-302d75c7606d.JPG)
+## Bugs
+Since I cannot host an app on heroku right now, I do not have a deployed link for the running application in the browser.
 ### License
 MIT license. Please refer to the license in the repo
