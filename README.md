@@ -21,6 +21,6 @@ This will open the app on the users local machine at..
 'localhost:3000'
 ![jate](https://user-images.githubusercontent.com/111022382/213883367-57617d11-1bf4-45f3-9be2-302d75c7606d.JPG)
 ## Bugs
-Since I cannot hoist an app onto heroku right now, I do not have a deployed application link for browser.
+Since I cannot hoist an app onto heroku right now, I do not have a deployed application link for browser. (At time of submission)
 ### License
 MIT license. Please refer to the license in the repo
